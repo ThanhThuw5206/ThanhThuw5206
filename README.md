@@ -1,88 +1,135 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:1A73E8,100:7B2CBF&height=220&section=header&text=Thanh%20Thu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20DevOps%20%7C%20Backend%20Development&descAlignY=57&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:1A73E8,100:7B2CBF&height=210&section=header&text=Thanh%20Th%C6%B0&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20Cybersecurity%20%7C%20DevOps%20%7C%20FiveM&descAlignY=57&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Cybersecurity+%26+DevOps+Enthusiast;Backend+Developer;Linux+%7C+Docker+%7C+Kubernetes+%7C+AWS;Learning+by+Building+%26+Breaking+Things;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Thanh+Th%C6%B0;Information+Technology+Student;Learning+Cybersecurity+%26+DevOps;Lua+%26+FiveM+Developer;Exploring+Backend+%26+Networking;Building+Projects+to+Learn" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ThanhThuw5206&style=for-the-badge&color=0e75b6" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/ThanhThuw5206?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=ThanhThuw5206&style=flat-square&color=0e75b6" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/ThanhThuw5206?style=flat-square&logo=github&label=Followers" alt="Followers"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-```yaml
-name: Thanh Thu
-username: ThanhThuw5206
-location: Vietnam
-
-focus:
-  - Cybersecurity
-  - DevOps
-  - Backend Development
-  - Cloud & Infrastructure
-  - Networking
-
-currently_learning:
-  - Secure Coding
-  - Vulnerability Research
-  - Docker & Kubernetes
-  - AWS Cloud
-  - Linux Administration
-  - CI/CD
-
-interests:
-  - Application Security
-  - DevSecOps
-  - Cloud Security
-  - Network Security
-  - Backend Systems
-  - Automation
-
-philosophy: "Learn. Build. Break. Secure. Repeat."
-```
-
-I enjoy exploring how systems work, how they fail, and how to build them better.
-
-My main interests are **Cybersecurity, DevOps, Backend Development, Cloud Infrastructure and Networking**. I use GitHub to document my learning journey, labs, university projects, security research and infrastructure experiments.
-
----
-
-## 🛡️ Cybersecurity & DevOps
+## 👋 About Me
 
 <div align="center">
 
-### Security
+### Hi, I'm Thanh Thư 👨‍💻
 
-<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-<img src="https://img.shields.io/badge/Secure_Coding-111111?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vulnerability_Research-111111?style=for-the-badge&logo=target&logoColor=red"/>
-<img src="https://img.shields.io/badge/Linux_Security-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+**Information Technology Student • Lua & FiveM Developer**
 
-### DevOps & Cloud
+*Learning, building, breaking things, fixing them, and learning again.*
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/🎓_IT_Student-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🛡️_Cybersecurity-Learning-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️_DevOps-Exploring-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎮_FiveM-Developer-0D1117?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+```text
+🎓  Information Technology Student
+🛡️  Learning Cybersecurity & Secure Coding
+☁️  Exploring DevOps, Docker & Kubernetes
+🌐  Practicing Networking & Linux
+💻  Building Backend & University Projects
+🌙  Working with Lua
+🎮  Developing & customizing FiveM resources
+🌱  Always learning something new
+```
+
+<div align="center">
+
+> **Currently learning by turning ideas, university assignments, and FiveM projects into hands-on experience.**
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## 🌱 What I'm Learning & Building
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/DevOps-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-Exploring-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FiveM-Development-F40552?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lua-Scripting-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+
+</div>
+
+<br>
+
+### 🛡️ Cybersecurity
+
+- Secure Coding
+- Basic Vulnerability Analysis
+- Software Security
+- Code Review
+- Integer Overflow
+- Zero Trust Architecture
+- Linux Security
+
+### ☁️ DevOps & Cloud
+
+- Git & GitHub
+- Docker
+- Kubernetes
+- Rancher
+- CI/CD
+- AWS Basics
+- Linux Administration
+
+### 🎮 FiveM Development
+
+- Lua scripting
+- FiveM resource development
+- Server-side & client-side scripts
+- Event handling
+- Framework integration
+- Inventory & job systems
+- UI / interaction systems
+- Resource configuration
+- Server customization
+- Debugging FiveM resources
+
+### 🌐 Networking
+
+- TCP/IP
+- Routing & Switching
+- Static Routing
+- Network Administration
+- Packet Tracer
+- Network Security Basics
+
+### 💻 Backend Development
+
+- Python
+- Flask
+- REST APIs
+- PostgreSQL
+- MySQL
+- Basic Authentication
+- Backend Project Structure
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,bash,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,lua,bash,js&theme=dark"/>
 
 ### Backend & Database
 
@@ -90,73 +137,101 @@ My main interests are **Cybersecurity, DevOps, Backend Development, Cloud Infras
 
 ### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,githubactions&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,aws&theme=dark"/>
 
-### Tools & Environment
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell&theme=dark"/>
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/FiveM-Resource_Development-F40552?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qbox-Learning-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OX_Ecosystem-Learning-111111?style=for-the-badge"/>
+
+<br><br>
+
+> Some technologies above are tools I'm currently learning and practicing with — not technologies I've fully mastered yet.
+
+</div>
+
 ---
 
-## 🔐 Areas I'm Exploring
+## 🎓 My Learning Journey
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                        SECURITY                             │
-├─────────────────────────────────────────────────────────────┤
-│  ▸ Secure Coding            ▸ Vulnerability Management     │
-│  ▸ Binary Exploitation      ▸ Application Security         │
-│  ▸ Network Security         ▸ DevSecOps                    │
-│  ▸ Zero Trust Architecture  ▸ Cloud Security               │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│                     DEVOPS / CLOUD                          │
-├─────────────────────────────────────────────────────────────┤
-│  ▸ Docker                  ▸ Kubernetes                    │
-│  ▸ Amazon AWS              ▸ CI/CD                         │
-│  ▸ Linux Administration    ▸ Infrastructure Automation     │
-│  ▸ Monitoring              ▸ Cloud-native Architecture     │
-└─────────────────────────────────────────────────────────────┘
+Thanh Thư
+   │
+   ├── 🛡️ Cybersecurity
+   │      ├── Secure Coding
+   │      ├── Vulnerability Basics
+   │      ├── Code Review
+   │      └── Security Labs
+   │
+   ├── ☁️ DevOps
+   │      ├── Git / GitHub
+   │      ├── Docker
+   │      ├── Kubernetes
+   │      └── AWS
+   │
+   ├── 🎮 FiveM Development
+   │      ├── Lua
+   │      ├── Client / Server Scripts
+   │      ├── Resource Development
+   │      ├── Qbox / QBX
+   │      └── OX Ecosystem
+   │
+   ├── 🌐 Networking
+   │      ├── TCP/IP
+   │      ├── Routing
+   │      ├── Packet Tracer
+   │      └── Network Administration
+   │
+   └── 💻 Development
+          ├── Python
+          ├── C++
+          ├── C#
+          └── Backend Basics
 ```
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Projects & Practice
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Security Research
+### 🛡️ Security Projects
 
-Research and experiments related to:
+Some of my coursework and practice includes:
 
-- Vulnerability management
-- Secure programming
-- Integer overflow
-- Software vulnerabilities
-- Code review
-- Vulnerability detection
-- Security automation
+- Secure coding exercises
+- Vulnerability analysis
+- Integer overflow research
+- Security code review
+- Zero Trust research
+- Vulnerability management projects
 
 </td>
 
 <td width="50%" valign="top">
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps Projects
 
-Hands-on projects involving:
+Things I've been practicing:
 
-- Docker containers
-- Kubernetes
-- Rancher
-- Amazon EKS
-- CI/CD workflows
-- Linux servers
-- Cloud infrastructure
+- Dockerizing applications
+- Kubernetes labs
+- Rancher Kubernetes
+- Amazon EKS basics
+- GitHub workflows
+- Linux environments
 
 </td>
 </tr>
@@ -164,32 +239,34 @@ Hands-on projects involving:
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Networking
+### 🎮 FiveM Development
 
-Projects and labs covering:
+Things I've worked with:
 
-- Network administration
-- Routing & switching
-- TCP/IP
-- Network security
-- Zero Trust
-- Service Mesh
-- Network policies
+- Custom Lua resources
+- Job systems
+- Interactive objects
+- Inventory integration
+- Client / server events
+- Qbox / QBX framework
+- OX Inventory / OX Lib
+- FiveM server customization
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚙️ Backend Development
+### 💻 Programming Projects
 
-Building backend systems with focus on:
+Practice with:
 
-- REST APIs
-- Flask
-- Database design
-- Authentication
-- Administration systems
-- Secure backend architecture
+- Python
+- C++
+- C#
+- Lua
+- Flask backend
+- TCP socket programming
+- Database-based applications
 
 </td>
 </tr>
@@ -197,7 +274,36 @@ Building backend systems with focus on:
 
 ---
 
-## 📌 Featured Projects
+## 🎮 FiveM Development
+
+<div align="center">
+
+```text
+Lua
+ │
+ ├── Client Scripts
+ ├── Server Scripts
+ ├── Events & Callbacks
+ ├── Resource Configuration
+ │
+ ├── Qbox / QBX
+ │     ├── Jobs
+ │     ├── Players
+ │     └── Framework Integration
+ │
+ └── OX Ecosystem
+       ├── ox_lib
+       ├── ox_inventory
+       └── ox_target
+```
+
+</div>
+
+I enjoy developing and customizing FiveM resources while learning more about **Lua scripting, client-server architecture, events, framework integration, and game server systems**.
+
+---
+
+## 📌 Featured Repository
 
 <div align="center">
 
@@ -207,28 +313,33 @@ Building backend systems with focus on:
 
 </div>
 
-> More projects are being built and documented.  
-> Check my repositories to follow my learning journey.
-
----
-
-## 📊 GitHub Analytics
+<br>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThanhThuw5206&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhThuw5206&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+More university, security, DevOps, and FiveM projects will be added over time. 🚀
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ThanhThuw5206&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=00C9FF&fire=FF6B35&currStreakLabel=00C9FF"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ThanhThuw5206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true"/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhThuw5206&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ThanhThuw5206&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -244,64 +355,53 @@ Building backend systems with focus on:
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ThanhThuw5206&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ThanhThuw5206&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"/>
 
 </div>
 
 ---
 
-## 🧠 Currently Learning
+## 🎯 Current Goals
 
-```mermaid
-mindmap
-  root((Learning))
-    Cybersecurity
-      Secure Coding
-      Vulnerability Research
-      Binary Security
-      Zero Trust
-    DevOps
-      Docker
-      Kubernetes
-      CI/CD
-      Rancher
-    Cloud
-      AWS
-      EKS
-      Cloud Security
-    Backend
-      Flask
-      REST API
-      PostgreSQL
-      System Design
+```text
+📚 Improve programming fundamentals
+
+🌙 Improve my Lua scripting skills
+
+🎮 Build better and cleaner FiveM resources
+
+🐧 Become more comfortable with Linux
+
+🛡️ Learn more about software security
+
+🐳 Practice Docker & Kubernetes
+
+☁️ Learn cloud fundamentals
+
+🌐 Improve networking knowledge
+
+💻 Build more complete backend projects
+
+🔧 Improve Git & GitHub workflow
+
+🚀 Turn university and personal projects into practical experience
 ```
 
 ---
 
-## 🎯 Goals
-
-- 🛡️ Improve my knowledge of **Application Security & Vulnerability Research**
-- ☁️ Build production-style systems using **Docker, Kubernetes and AWS**
-- 🔐 Apply **Security by Design** into software development
-- ⚙️ Improve **Backend Architecture & System Design**
-- 🐧 Become more proficient with **Linux & Infrastructure**
-- 🚀 Build projects that combine **Security + DevOps + Cloud**
-
----
-
-## 💡 Development Philosophy
+## 💭 How I Learn
 
 <div align="center">
 
-> **"The best way to understand a system is to build it, break it, and secure it."**
+### Learn → Build → Break → Debug → Fix → Understand
 
-<br/>
+<br>
 
-`Learn` → `Build` → `Break` → `Analyze` → `Secure` → `Automate`
+> **I believe the best way to learn technology is by building things, testing them, making mistakes, and understanding how to improve them.**
 
 </div>
 
@@ -312,7 +412,7 @@ mindmap
 <div align="center">
 
 <a href="https://github.com/ThanhThuw5206">
-  <img src="https://img.shields.io/badge/GitHub-ThanhThuw5206-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-ThanhThuw5206-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
@@ -324,7 +424,7 @@ mindmap
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -333,8 +433,16 @@ mindmap
 
 <div align="center">
 
-### 💻 Thanks for visiting my profile!
+### 👨‍💻 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:1A73E8,100:00C9FF&height=120&section=footer"/>
+⭐ Feel free to explore my repositories and follow my learning journey.
+
+<br><br>
+
+**Code • Learn • Build • Debug • Repeat**
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:1A73E8,100:00C9FF&height=120&section=footer"/>
 
 </div>
